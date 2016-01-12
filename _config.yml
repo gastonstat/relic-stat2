@@ -11,7 +11,7 @@ title:            Stat 2
 tagline:          'UCB - Stat 2'
 description:      'Introduction to Statistics'
 url:              http://gastonsanchez.com/stat2
-baseurl:          /
+baseurl:          stat2
 
 author:
   name:           'Gaston Sanchez'
