@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Stat 2
 tagline:          'UCB - Stat 2'
 description:      'Introduction to Statistics'
-url:              http://gastonsanchez.com
-baseurl:          /stat2
+#url:              http://gastonsanchez.com
+baseurl:          http://gastonsanchez.com/stat2
 
 author:
   name:           'Gaston Sanchez'
