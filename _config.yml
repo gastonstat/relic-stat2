@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Stat 2
+tagline:          'UCB - Stat 2'
+description:      'Introduction to Statistics'
+#url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Gaston Sanchez'
+  url:            http://gastonsanchez.com
+
+paginate:         5
+
+# Custom vars
+version:          Spring 2016
+
+github:
+  repo:           https://github.com/gastonstat/stat2
