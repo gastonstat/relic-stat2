@@ -28,7 +28,7 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 ### Grading Structure
 
 - 10% lab attendance
-- 10% quiz (during lab discussions)
+- 10% pop quiz (during lab discussions)
 - 20% homework
 - 30% midterm
 - 30% final
@@ -36,7 +36,7 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 
 ### Advice for success
 
-Try to solve all exercises in each chapter: Some show up on exams. Read all homework and exam questions carefully, and take them literally—don't try to second-guess what is meant. Attend office hours. Post questions to the discussion board. Check the discussion board daily. Search the discussion board for answers before posting a question.
+Try to solve all exercises in each chapter: Some show up on exams. Read all homework and exam questions carefully, and take them literally—don't try to second-guess what is meant. Attend lab discussions.
 
 
 ### <a name="email-policy"></a>Email Policy
