@@ -62,13 +62,13 @@ Tentative Calendar, Spring 2016
     <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 25, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 2</a>
   </li>
   <li>
-    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 01, &nbsp;&nbsp;<a href="01-course-introduction">Binomial Distribution</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 01, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 03, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 03, &nbsp;&nbsp;<a href="">Law of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="01-course-introduction">Test Review</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="">Test Review</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 10, &nbsp;&nbsp;<b>Midterm</b>
