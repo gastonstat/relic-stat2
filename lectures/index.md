@@ -80,7 +80,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="">Law of Averages</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="">Expected Value and Standard Error</a>

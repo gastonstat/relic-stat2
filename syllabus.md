@@ -27,8 +27,8 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 
 ### Grading Structure
 
-- 10% lab attendance
-- 10% pop quiz (during lab discussions)
+- 10% attendance
+- 10% pop quizes (during lab discussions)
 - 20% homework
 - 30% midterm
 - 30% final
@@ -45,6 +45,7 @@ Try to solve all exercises in each chapter: Some show up on exams. Read all home
 - Use the subject line __Meeting Request__.
 - Your message should include at least two times when you would like to meet and a brief (one-two sentence) description of the reason for the meeting.
 - Email sent for any other reason will NOT be considered or acknowledge.
+- Do NOT expect me to reply right away (I may not reply on time).
 - If you have an emergency, talk to me later during class or office hours.
 - I strongly encourage you to ask questions about the syllabus, covered material, and assignments during class time or lab discussions. 
 - Our conversations should take place in person rather than via email, thus allowing us to get to know each other better and fostering a more collegial learning atmosphere.

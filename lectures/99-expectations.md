@@ -1,0 +1,74 @@
+
+- Welcome to Stat 2 "Introduction to Statistics"
+- About this course (and its relationship with Stat 20 & Stat 21)
+	- Introductory course
+	- Not very mathy
+	- Must have:
+		- elementary algebra
+		- word math problems
+		- 
+	- Nice to have:
+		- intermediate algebra
+		- calculus
+		- previous experience analyzing data
+	- Focus on understanding basic concepts and principles
+- A little bit about me
+	- From Mexico
+	- Applied statistician
+	- Making my living as a statistical programmer, researcher
+	- Helping other scientists/researchers analyze their datasets
+- Lecture
+	- 80 minutes divided in:
+		- 37 mins part 1
+		- 6 mins break
+		- 37 mins part 2
+- Homework assignments
+	- HW pretty much every week (~13 weeks)
+	- HW will be posted on website
+	- We'll grade about 50% of questions (i.e. 20 questions, 10 graded)
+	- HW as credit / not-credit based on completion of selected questions
+	- Turn in your HW during lab discussion or designated place
+	- No late HW (plan ahead, and pace yourself)
+	- You'll have access to the answers after turning in your HW
+	- Do your own work, write your steps, "No work shown, no credit"
+	- You can study together but you must write your own answers
+- Attendance
+	- Won't take roll during lecture
+	- Lab attendance
+	- No iclicker
+- Textbook
+	- "Statistics" (by FPP)
+	- 4th edition or older
+	- You don't have to buy it, just make sure you have access to it
+	- No reader available
+- Website
+	- gastonsanchez.com/stat2
+	- See lectures section
+		- You have two links: one for the slides, one for details
+		- Each lecture page has the slides, a short outline, book sections
+	- See syllabus
+	- See homework
+- Grading Structure
+	- 10% lab attendance
+	- 10% pop quizes during lab
+	- 20% homework
+	- 30% midterm
+	- 30% final ("cumulative")
+- Office Hours
+	- TBA
+	- Location may vary depending on demand size
+- Email policy
+	- Email me only to set up a one-on-one meeting with me if Office hours conflict with your schedule.
+	- Use the subject line __Meeting Request__.
+	- Your message should include at least two times when you would like to meet and a brief (one-two sentence) description of the reason for the meeting.
+	- Email sent for any other reason will NOT be considered or acknowledge.
+	- Do NOT expect me to reply right away (I may not reply on time)
+	- If you have an emergency, talk to me later during class or office hours.
+	- I strongly encourage you to ask questions about the syllabus, covered material, and assignments during class time or lab discussions.
+	- Our conversations should take place in person rather than via email, thus allowing us to get to know each other better and fostering a more collegial learning atmosphere.
+- Waiting List
+	- Not under my control
+	- Usually 10% of students will be automatically placed
+	- About switching lab sections??? (not sure yet)
+
+

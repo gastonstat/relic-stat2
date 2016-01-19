@@ -17,6 +17,7 @@ title: "Course Introduction"
 </h4>
 
 - Game Rules
+- Course Expectations
 - Syllabus
 
 
