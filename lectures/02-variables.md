@@ -18,10 +18,11 @@ title: "Variables"
 
 - Understand the concept of "data" for statistical analysis
 - Explain what is a "variable"
-- Understand the types of variables
 - Difference between qualitative and quantitative variables
+- Difference between discrete and continuous quantitative variables
 - Determine whether a variable is qualitative or quantitative
-
+- How to make a frequency table
+- Understanding Bar-charts
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
