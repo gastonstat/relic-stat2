@@ -10,8 +10,8 @@ HW Assignments
 <table>
   <thead>
     <tr>
-      <th>Lab</th>
-      <th>Date</th>
+      <th>HW</th>
+      <th>Due</th>
       <th>Topic</th>
     </tr>
   </thead>
