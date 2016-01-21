@@ -19,7 +19,7 @@ HW Assignments
     <tr>
       <td align="center">1</td>
       <td align="center">Jan 27</td>
-      <td><a href="homework/stat2-hw01-questions.pdf">HW1 - Varibales</a></td>
+      <td><a href="stat2-hw01-questions.pdf">HW1 - Varibales</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
