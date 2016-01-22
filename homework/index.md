@@ -3,7 +3,7 @@ layout: page
 title: Homework
 ---
 
-HW Assignments
+HW assignments are to be turned in during lab
 
 <hr>
 
