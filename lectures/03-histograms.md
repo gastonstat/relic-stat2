@@ -16,10 +16,13 @@ title: "Histograms"
 	Learning Objectives
 </h4>
 
+- Describe what is a frequency table
+- How to create a frequency table
+- Explain is a bar-chart
 - Explain what is a histogram
 - Learn how to read and interpret a histogram
 - Learn how to draw a histogram
-
+- Differences between bar-charts and histograms
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
