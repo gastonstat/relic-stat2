@@ -24,7 +24,12 @@ HW assignments are to be turned in during lab
     <tr>
       <td align="center">2</td>
       <td align="center">Feb 3</td>
-      <td>TBD</td>
+      <td><a href="stat2-hw02-questions.pdf">HW2 - Histograms</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td align="center">Feb 10</td>
+      <td>TBA</td>
     </tr>
   </tbody>
  </table>
