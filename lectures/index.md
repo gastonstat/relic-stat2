@@ -17,16 +17,19 @@ Tentative Calendar, Spring 2016
     <a href="02-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 21, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1k0Ti3489qKExV-X9VzgOq0rCRk0EcjsEB800TDyvfG0/pub?start=false&loop=false&delayms=3000" target="_blank">Variables</a>
   </li>
   <li>
-    <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
+    <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Frequency tables and barcharts</a>
   </li>
   <li>
-    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
+    <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
   </li>
   <li>
-    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 02, &nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
   </li>
   <li>
-    <a href="06-normal-data"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 04, &nbsp;<a href="06-normal-data">Normal Approximation for Data</a>
+    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 04, &nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+  </li>
+  <li>
+    <a href="06-normal-data"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 09, &nbsp;<a href="06-normal-data">Normal Approximation for Data</a>
   </li>
 </ul>
 
@@ -35,19 +38,19 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="07-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 04, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
+    <a href="07-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 11, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
   </li>
   <li>
-    <a href="08-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+    <a href="08-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
   </li>
   <li>
-    <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 11, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+    <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 18, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
   </li>
   <li>
-    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 16, &nbsp;&nbsp;<a href="">Prediction Errors</a>
+    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 23, &nbsp;&nbsp;<a href="">Prediction Errors</a>
   </li>
   <li>
-    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 18, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
+    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 25, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
   </li>
 </ul>
 
