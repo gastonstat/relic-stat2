@@ -23,7 +23,7 @@ Tentative Calendar, Spring 2016
     <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
   </li>
   <li>
-    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
+    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 02, &nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
   </li>
   <li>
     <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 04, &nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
