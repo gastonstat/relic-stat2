@@ -18,17 +18,17 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 
 - Weekly homework assignments are due as posted online.
 - Assignments must be turned in during lab discussion.
-- No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-- After the due date of each assignment, you will have access to the correct answers.
-- You get credit for a homework assignment only if you complete all the questions.
-- The homework assignments are substantially more difficult than the exams.
+- After the due date of each assignment, you will have access to the correct answers in bCourses.
+- The homework assignments tend to be are substantially more difficult than the exams.
+- No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
+- Instead of late HW, I will drop your lowest two HW scores.
 
 
 ### Grading Structure
 
 - 10% attendance
-- 10% pop quizes (during lab discussions)
+- 10% pop quizzes (during lab discussions)
 - 20% homework
 - 30% midterm
 - 30% final
