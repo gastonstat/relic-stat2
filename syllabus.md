@@ -20,7 +20,7 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 - Assignments must be turned in during lab discussion.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 - After the due date of each assignment, you will have access to the correct answers in bCourses.
-- The homework assignments tend to be are substantially more difficult than the exams.
+- The homework assignments tend to be substantially more difficult than the exams.
 - No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
 - Instead of late HW, I will drop your lowest two HW scores.
 
