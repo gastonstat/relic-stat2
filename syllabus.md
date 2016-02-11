@@ -34,6 +34,13 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 - 30% final
 
 
+### Calculator Policy
+
+- You can use a scientific calculator (regular or graphing) for quizzes and tests.
+- However, no phone calculators or tablet calculators are allowed.
+- If you don't bring a scientific calculator to a quiz/midterm, do your computations by hand (you won't be allowed to borrow someone else's calculator).
+
+
 ### Advice for success
 
 Try to solve all exercises in each chapter: Some show up on exams. Read all homework and exam questions carefully, and take them literally—don't try to second-guess what is meant. Attend lab discussions.
