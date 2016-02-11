@@ -38,10 +38,10 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="07-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 11, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
+    <a href="07-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 11, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams and Correlation</a>
   </li>
   <li>
-    <a href="08-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+    <a href="08-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">More About Correlation</a>
   </li>
   <li>
     <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 18, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
