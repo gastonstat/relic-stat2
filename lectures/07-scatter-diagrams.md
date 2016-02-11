@@ -20,6 +20,8 @@ title: "Scatter Diagrams"
 - Scatter plots of two variables
 - Football-shaped "clouds"
 - Visualizing scatter diagrams
+- Understanding correlation
+- How to compute the correlation coefficient
 
 
 <h4>
@@ -27,5 +29,5 @@ title: "Scatter Diagrams"
 	Reading
 </h4>
 
-Chapter 8, pages 119-124
+Chapter 8, pages 119-134
 
