@@ -15,7 +15,7 @@ title: Lab Discussion
   <tbody>
     <tr>
       <td align="center">Feb 1</td>
-      <td>Frequencies and historgams</td>
+      <td>Frequencies and histograms</td>
     </tr>
     <tr>
       <td align="center">Feb 3</td>
@@ -23,7 +23,7 @@ title: Lab Discussion
     </tr>
     <tr>
       <td align="center">Feb 8</td>
-      <td>Ch 4: C4,5,D1,2,6, E1,5,6,7</td>
+      <td>Ch 4: C4,5, D1,2,6, E1,5,6,7</td>
     </tr>
     <tr>
       <td align="center">Feb 10</td>
@@ -32,7 +32,7 @@ title: Lab Discussion
     <tr>
       <td align="center">Feb 17</td>
       <td>Ch 8: A5,6, B4,7, D2,3<br>
-        Ch 9: A2-5,9, B1,C4,D1,E4</td>
+        Ch 9: A2-5,9, B1, C4, D1, E4</td>
     </tr>
   </tbody>
  </table>
