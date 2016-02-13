@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Correlation"
+title: "More about Correlation"
 ---
 
 <h4>
@@ -16,9 +16,14 @@ title: "Correlation"
 	Learning Objectives
 </h4>
 
-- Understanding correlation
-- How to compute the correlation coefficient
-- Features of the correlation coefficient
+- Understanding correlation features:
+- __r__ is a pure number without units
+- __r__ is not affected by interchanging the two variables
+- __r__ is not affected by adding the same number to all the values
+- __r__ is not affected by multiplying all the values of one variable by the same positive number
+- __r__ can be misleading in the presence of outliers or non-linear association
+- _Ecological Correlations_ (based on rates or averages) tend to overstate the strength of associations for individuals
+- Correlation measures association, but association doesn't equal causation. 
 
 
 <h4>
@@ -26,6 +31,5 @@ title: "Correlation"
 	Reading
 </h4>
 
-Chapter 8, pages 132-134 <br>
-Chapter 9, pages 141-152
+Chapter 9, pages 141-157
 
