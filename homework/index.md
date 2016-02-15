@@ -29,14 +29,20 @@ HW assignments are to be turned in during lab
     <tr>
       <td align="center">3</td>
       <td align="center">Feb 10</td>
-      <td>Ch-4: B5, D8, E4, R6,9<br>
+      <td>Ch-4: B5, D8, E4, Rev6,9<br>
         Ch-5: C1, D1, E3, Rev7,10</td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td align="center">Feb 17</td>
       <td>Ch-8: B6,8,9, Rev9<br>
-        Ch-9: A10, B2, E3, Rev 4,8</td>
+        Ch-9: A10, B2, E3, Rev4,8</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">Feb 24</td>
+      <td>Ch-10: A2,4, C4, Rev3,4<br>
+        Ch-11: B1,2, C1, Rev4,7, Ch-12: Rev7</td>
     </tr>
   </tbody>
  </table>
