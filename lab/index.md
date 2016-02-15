@@ -34,5 +34,15 @@ title: Lab Discussion
       <td>Ch 8: A5,6, B4,7, D2,3<br>
         Ch 9: A2-5,9, B1, C4, D1, E4</td>
     </tr>
+    <tr>
+      <td align="center">Feb 22</td>
+      <td>Ch 10: A1, B1,4, C1,5, D1, E1,2<br>
+        Ch 11: A4,6,8</td>
+    </tr>
+    <tr>
+      <td align="center">Feb 24</td>
+      <td>Ch 11: B1,2,3, D4,5,6,7, E2,3<br>
+        Ch 12: A2, B3,4,5</td>
+    </tr>
   </tbody>
  </table>
