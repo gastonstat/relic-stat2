@@ -16,9 +16,11 @@ title: "Regression"
 	Learning Objectives
 </h4>
 
-- Understanding the Regression method
-- Regression line between two variables
-- Visualizing a regression line
+- Understand the Graph of Averages
+- Understand the Regression line
+- Regression line as the line that smooths out the bumps of the graph of averages
+- Understand the regression effect
+- There are two regression lines: _x_ on _y_, and _y_ on _x_
 
 
 <h4>
