@@ -41,6 +41,10 @@ title: Lab Discussion
     </tr>
     <tr>
       <td align="center">Feb 24</td>
+      <td>Quiz 1</td>
+    </tr>
+    <tr>
+      <td align="center">Feb 29</td>
       <td>Ch 11: B1,2,3, D4,5,6,7, E2,3<br>
         Ch 12: A2, B3,4,5</td>
     </tr>
