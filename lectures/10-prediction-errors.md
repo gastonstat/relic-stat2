@@ -16,9 +16,12 @@ title: "Prediction Errors"
 	Learning Objectives
 </h4>
 
-- Explain what is a histogram
-- Learn how to read and interpret a histogram
-- Learn how to draw a histogram
+- Understanding the concept of prediction errors (i.e. _residuals_)
+- Understanding the __r.m.s. error__ of the regression line
+- Learn the formula of the r.m.s. error
+- Graphing the residuals with the _residual plot_
+- Understanding the concept of __homoscedastic__ (similar spread)
+- Understanding the concept of __heteroscedastic__ (different spread)
 
 
 <h4>
@@ -26,5 +29,5 @@ title: "Prediction Errors"
 	Reading
 </h4>
 
-Chapter 3, pages 31-44
+Chapter 11, pages 180-201
 
