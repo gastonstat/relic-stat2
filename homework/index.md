@@ -44,5 +44,11 @@ HW assignments are to be turned in during lab
       <td>Ch-10: A2,4, C4, Rev3,4<br>
         Ch-11: B1,2, C1, Rev4,7, Ch-12: Rev7</td>
     </tr>
+    <tr>
+      <td align="center">6</td>
+      <td align="center">Mar 2</td>
+      <td>Ch-11: Rev4,7, Ch-12: Rev7<br>
+        More questions TBD</td>
+    </tr>
   </tbody>
  </table>
