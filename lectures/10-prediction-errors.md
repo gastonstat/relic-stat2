@@ -8,7 +8,7 @@ title: "Prediction Errors"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Prediction Error</a>
+<a href="https://docs.google.com/presentation/d/1KSws7X-9jr1YWtJwPUmdnooodMqBMzRLjDWhsgq04Iw/pub?start=false&loop=false&delayms=3000" target="_blank">Prediction Errors</a>
 
 
 <h4>
