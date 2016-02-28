@@ -50,7 +50,7 @@ Tentative Calendar, Spring 2016
     <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 23, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1KSws7X-9jr1YWtJwPUmdnooodMqBMzRLjDWhsgq04Iw/pub?start=false&loop=false&delayms=3000" target="_blank">Prediction Errors</a>
   </li>
   <li>
-    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 25, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
+    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1KSws7X-9jr1YWtJwPUmdnooodMqBMzRLjDWhsgq04Iw/pub?start=false&loop=false&delayms=3000" target="_blank">More about Regression</a>
   </li>
 </ul>
 
