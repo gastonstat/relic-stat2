@@ -53,5 +53,14 @@ title: Lab Discussion
       <td>Ch 13: A1, B1,2, C1, D2,4,5,6<br>
         Ch 14: B1,3, C3, D4</td>
     </tr>
+    <tr>
+      <td align="center">Mar 7</td>
+      <td>Ch 13: B3, C3,7<br>
+        Ch 14: A1,3, B1,3, C1,2</td>
+    </tr>
+    <tr>
+      <td align="center">Mar 9</td>
+      <td>Test Review: Chapters 3-5,8-14</td>
+    </tr>
   </tbody>
  </table>
