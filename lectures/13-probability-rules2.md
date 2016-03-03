@@ -8,7 +8,7 @@ title: "Probability Rules 2"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules part 2</a>
+<a href="https://docs.google.com/presentation/d/1C-bEAHd3naLPxk_WDSrMuWHd9kMdVVo7vh2x9lWaFvc/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules part 2</a>
 
 
 <h4>
@@ -16,10 +16,13 @@ title: "Probability Rules 2"
 	Learning Objectives
 </h4>
 
-- Probability (frequency approach)
-- Probability essentials
+- Concept of chance (under frequency theory)
+- Chances are between 0% and 100%
+- Complement rule: the chance of something equals 100% minus the chance of the opposite thing
+- Conditional probabilities
+- Multiplication rule
+- Independence (independent events)
 - Addition Rule
-- Product Rule
 
 
 <h4>
@@ -27,5 +30,4 @@ title: "Probability Rules 2"
 	Reading
 </h4>
 
-Chapter X, pages ??-??
-
+Chapter 13 and 14, pages 221-236, 237-254

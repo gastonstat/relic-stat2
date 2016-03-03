@@ -62,7 +62,7 @@ Tentative Calendar, Spring 2016
     <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 01, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1cgU096Vr5Ep30rXoQ68940YbbCM7wvpznsC623Zx5N0/pub?start=false&loop=false&delayms=3000" target="_blank">Rules of Probability 1</a>
   </li>
   <li>
-    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 03, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 2</a>
+    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1C-bEAHd3naLPxk_WDSrMuWHd9kMdVVo7vh2x9lWaFvc/pub?start=false&loop=false&delayms=3000" target="_blank">Rules of Probability 2</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
