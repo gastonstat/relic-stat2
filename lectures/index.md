@@ -65,7 +65,7 @@ Tentative Calendar, Spring 2016
     <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1C-bEAHd3naLPxk_WDSrMuWHd9kMdVVo7vh2x9lWaFvc/pub?start=false&loop=false&delayms=3000" target="_blank">Rules of Probability 2</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="">Midterm Review</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 10, &nbsp;&nbsp;<b>Midterm</b>
@@ -77,19 +77,19 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="">Expected Value and Standard Error</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="">Law of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="">Expected Value and Standard Error</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="">Sample Surveys</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="">Sample Surveys and Errors in Sampling</a>
   </li>
 </ul>
 
