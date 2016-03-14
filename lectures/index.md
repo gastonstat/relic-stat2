@@ -77,7 +77,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
+    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1M6Xk1xwAmdewO1K5lVIAOXz45LcIfvrZOgzQs9EXc1c/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="">Law of Averages</a>
