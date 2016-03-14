@@ -17,9 +17,8 @@ title: "Binomial Distribution"
 </h4>
 
 - Binomial coefficients
-- Binary events
-- Factorial notation
-- Binomial probability
+- Binomial Formula
+- Calculate the chance that an even t will occur exactly _k_ times out of _n_
 
 
 <h4>
@@ -27,5 +26,5 @@ title: "Binomial Distribution"
 	Reading
 </h4>
 
-Chapter X, pages ??-??
+Chapter 15, pages 255-269
 
