@@ -8,7 +8,7 @@ title: "Binomial Distribution"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
+<a href="https://docs.google.com/presentation/d/1M6Xk1xwAmdewO1K5lVIAOXz45LcIfvrZOgzQs9EXc1c/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
 
 
 <h4>
