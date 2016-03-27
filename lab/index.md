@@ -66,5 +66,10 @@ title: Lab Discussion
       <td align="center">Mar 28</td>
       <td>Ch 15: A6, R1,5,6</td>
     </tr>
+    <tr>
+      <td align="center">Mar 28</td>
+      <td>Ch 16: A3,4, B1, 3, C1, R6<br>
+        Ch 17: B1,3,5,6</td>
+    </tr>
   </tbody>
  </table>
