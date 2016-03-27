@@ -62,5 +62,9 @@ title: Lab Discussion
       <td align="center">Mar 9</td>
       <td>Test Review: Chapters 3-5,8-14</td>
     </tr>
+    <tr>
+      <td align="center">Mar 28</td>
+      <td>Ch 15: A6, R1,5,6</td>
+    </tr>
   </tbody>
  </table>
