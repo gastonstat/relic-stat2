@@ -83,7 +83,7 @@ Tentative Calendar, Spring 2016
     <a href="15-law-averages"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WDS0RyPXBjo0kgYSC5AIR33Vr78lKbOURXqJ2TMXvtI/pub?start=false&loop=false&delayms=3000" target="_blank">Law of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="">Expected Value and Standard Error</a>
+    <a href="16-expvalue-stderror"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1QCSwf7zN80253dLYUAkZ3C4h01M6rLTFJ33h1tFD9To/pub?start=false&loop=false&delayms=3000" target="_blank">Expected Value and Standard Error</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
