@@ -86,7 +86,7 @@ Tentative Calendar, Spring 2016
     <a href="16-expvalue-stderror"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1QCSwf7zN80253dLYUAkZ3C4h01M6rLTFJ33h1tFD9To/pub?start=false&loop=false&delayms=3000" target="_blank">Expected Value and Standard Error</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
+    <a href="17-probability-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1AZ61AYdl1mmT3Uy1XebT8qpTbbR7uqiP0y_n740Vp8E/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Approximation for Probability Histograms</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="">Sample Surveys and Errors in Sampling</a>
