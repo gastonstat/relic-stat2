@@ -56,5 +56,12 @@ HW assignments are to be turned in during lab
       <td>Ch-13: Rev2,4,7,8,9<br>
         Ch-14: Rev1,3,5,6,9</td>
     </tr>
+    <tr>
+      <td align="center">8</td>
+      <td align="center">Apr 6</td>
+      <td>Ch-16: A6, B2, Rev4,9<br>
+        Ch-17: A1, B2, C1, D1, E1, Rev2<br>
+        Ch-18: B3, B5, C5, Rev2</td>
+    </tr>
   </tbody>
  </table>
