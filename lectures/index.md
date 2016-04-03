@@ -88,23 +88,23 @@ Tentative Calendar, Spring 2016
   <li>
     <a href="17-probability-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1AZ61AYdl1mmT3Uy1XebT8qpTbbR7uqiP0y_n740Vp8E/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Approximation for Probability Histograms</a>
   </li>
-  <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="">Sample Surveys and Errors in Sampling</a>
-  </li>
 </ul>
 
 
-### Estimation
+### Sampling and Estimation
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 07, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
+    <a href="18-sample-surveyrs"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1n-zZKPrpCoNqhf1hnDlUNVx-XL_qxdZgwngeKWMULiM/pub?start=false&loop=false&delayms=3000" target="_blank">Sample Surveys and Errors in Sampling</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 07, &nbsp;&nbsp;<a href="">Chance Errors in Sampling</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Model for Measurement Error</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
+  </li>
+  <li>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
   </li>
 </ul>
 
