@@ -95,7 +95,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="18-sample-surveyrs"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1n-zZKPrpCoNqhf1hnDlUNVx-XL_qxdZgwngeKWMULiM/pub?start=false&loop=false&delayms=3000" target="_blank">Sample Surveys and Errors in Sampling</a>
+    <a href="18-sample-surveys"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1n-zZKPrpCoNqhf1hnDlUNVx-XL_qxdZgwngeKWMULiM/pub?start=false&loop=false&delayms=3000" target="_blank">Sample Surveys and Errors in Sampling</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 07, &nbsp;&nbsp;<a href="">Chance Errors in Sampling</a>
