@@ -76,5 +76,15 @@ title: Lab Discussion
       <td>Ch 17: D4, Rev 6,11<br>
         Ch 18: B1; C2,7,8; Rev 3,12,13,14</td>
     </tr>
+    <tr>
+      <td align="center">Apr 11</td>
+      <td>Ch 19: A5,6,8,12, R6,12<br>
+        Ch 20: A1,2, B1,2</td>
+    </tr>
+    <tr>
+      <td align="center">Apr 13</td>
+      <td>Ch 20: C1,3,5<br>
+        Ch 21: A4,5,6, B3, C4,5, D2, E1,2</td>
+    </tr>
   </tbody>
  </table>
