@@ -19,7 +19,7 @@ HW assignments are to be turned in during lab
     <tr>
       <td align="center">1</td>
       <td align="center">Jan 27</td>
-      <td><a href="stat2-hw01-questions.pdf">HW1 - Varibales</a></td>
+      <td><a href="stat2-hw01-questions.pdf">HW1 - Variables</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -68,6 +68,11 @@ HW assignments are to be turned in during lab
       <td align="center">Apr 13</td>
       <td>Ch-19: Rev5,7<br>
         Ch-20: A4, B3, Rev3,4,6</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td align="center">Apr 20</td>
+      <td>TBD</td>
     </tr>
   </tbody>
  </table>
