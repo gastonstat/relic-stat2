@@ -8,7 +8,7 @@ title: "Chance Errors in Sampling"
 	Slides
 </h4>
 
-<a href="" target="_blank">Chance Errors in Sampling</a>
+<a href="https://docs.google.com/presentation/d/1jRFpoepvu7RWwl6fsxPD7wFkdhZk83dlLwzb9SNMXSE/pub?start=false&loop=false&delayms=3000" target="_blank">Chance Errors in Sampling</a>
 
 
 <h4>
