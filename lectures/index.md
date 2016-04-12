@@ -101,10 +101,10 @@ Tentative Calendar, Spring 2016
     <a href="19-sampling-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1jRFpoepvu7RWwl6fsxPD7wFkdhZk83dlLwzb9SNMXSE/pub?start=false&loop=false&delayms=3000" target="_blank">Chance Errors in Sampling</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
+    <a href="20-accuracy-percentages"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Ia5dA9BuEHUTX0dxLRJ9RervShAHmtqk8Si8hXPak-0/pub?start=false&loop=false&delayms=3000" target="_blank">Accuracy of Percentages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
+    <a href="21-accuracy-averages"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
   </li>
 </ul>
 
