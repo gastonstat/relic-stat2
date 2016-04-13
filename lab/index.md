@@ -77,6 +77,10 @@ title: Lab Discussion
         Ch 18: B1; C2,7,8; Rev 3,12,13,14</td>
     </tr>
     <tr>
+      <td align="center">Apr 6</td>
+      <td>Quiz 2</td>
+    </tr>
+    <tr>
       <td align="center">Apr 11</td>
       <td>Ch 19: A5,6,8,12, R6,12<br>
         Ch 20: A1,2, B1,2</td>
@@ -85,6 +89,14 @@ title: Lab Discussion
       <td align="center">Apr 13</td>
       <td>Ch 20: C1,3,5<br>
         Ch 21: A4,5,6, B3, C4,5, D2, E1,2</td>
+    </tr>
+    <tr>
+      <td align="center">Apr 18</td>
+      <td>Ch 23: A1, B1, C3, D1,2,3,4, R3,8</td>
+    </tr>
+    <tr>
+      <td align="center">Apr 20</td>
+      <td>Quiz 3</td>
     </tr>
   </tbody>
  </table>

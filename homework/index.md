@@ -72,7 +72,8 @@ HW assignments are to be turned in during lab
     <tr>
       <td align="center">10</td>
       <td align="center">Apr 20</td>
-      <td>TBD</td>
+      <td>Ch-21: C6, R2,7<br>
+        Ch-23: R4,10</td>
     </tr>
   </tbody>
  </table>
