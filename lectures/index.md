@@ -104,7 +104,7 @@ Tentative Calendar, Spring 2016
     <a href="20-accuracy-percentages"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Ia5dA9BuEHUTX0dxLRJ9RervShAHmtqk8Si8hXPak-0/pub?start=false&loop=false&delayms=3000" target="_blank">Accuracy of Percentages</a>
   </li>
   <li>
-    <a href="21-accuracy-averages"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
+    <a href="21-accuracy-averages"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1FnUXMu_5qYST5Stou895O_vUjdAULxeyxhvrGImAVEA/pub?start=false&loop=false&delayms=3000" target="_blank">Accuracy of Averages</a>
   </li>
 </ul>
 
