@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Accuracy of Averages"
+title: "Tests of Significance"
 ---
 
 <h4>
@@ -8,7 +8,7 @@ title: "Accuracy of Averages"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1FnUXMu_5qYST5Stou895O_vUjdAULxeyxhvrGImAVEA/pub?start=false&loop=false&delayms=3000" target="_blank">Accuracy of Averages</a>
+<a href="https://docs.google.com/presentation/d/1FQN-qh-plq87aB1d2vOUoi3YVLl6LE28uYUhXS5RFcI/pub?start=false&loop=false&delayms=3000" target="_blank">Tests of Significance</a>
 
 
 <h4>

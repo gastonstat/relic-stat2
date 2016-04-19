@@ -113,7 +113,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="22-hypothesis-tests"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 19, &nbsp;&nbsp;<a href="">Tests of Significance</a>
+    <a href="22-hypothesis-tests"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 19, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1FQN-qh-plq87aB1d2vOUoi3YVLl6LE28uYUhXS5RFcI/pub?start=false&loop=false&delayms=3000" target="_blank">Tests of Significance</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 21, &nbsp;&nbsp;<a href="">Tests for Averages</a>
