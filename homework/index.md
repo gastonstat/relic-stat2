@@ -75,5 +75,10 @@ HW assignments are to be turned in during lab
       <td>Ch-21: C5, R2,7<br>
         Ch-23: A2,5, C2, R4,10</td>
     </tr>
+    <tr>
+      <td align="center">11</td>
+      <td align="center">Apr 27</td>
+      <td>Ch-26: B5, C1, F1, F7, R2,5,7,8</td>
+    </tr>
   </tbody>
  </table>
