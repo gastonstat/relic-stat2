@@ -102,5 +102,9 @@ title: Lab Discussion
       <td align="center">Apr 25</td>
       <td>Ch 26: A4,5, B2, C4,5, D3</td>
     </tr>
+    <tr>
+      <td align="center">Apr 27</td>
+      <td>Quiz 4</td>
+    </tr>
   </tbody>
  </table>
