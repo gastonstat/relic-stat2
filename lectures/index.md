@@ -119,10 +119,10 @@ Tentative Calendar, Spring 2016
     <a href="22-hypothesis-tests"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 21, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1GTWOiwk4Gkeh_nXnKKK47hCcE1sWMGT-s9Q313VTUFM/pub?start=false&loop=false&delayms=3000" target="_blank">One sample t-test</a>
   </li>
   <li>
-    <a href="23-two-sample-test.md"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/19PpdMovtJSbydDAc1Mv1wh3Mu5YWT0dFCh5aPcdE6dU/pub?start=false&loop=false&delayms=3000" target="_blank">Two sample z-test</a>
+    <a href="23-two-sample-test"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/19PpdMovtJSbydDAc1Mv1wh3Mu5YWT0dFCh5aPcdE6dU/pub?start=false&loop=false&delayms=3000" target="_blank">Two sample z-test</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 28, &nbsp;&nbsp;<a href="">Chi-Square Test</a>
+    <a href="24-chi-square-test"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1UWF2cDbFkFunYhk6UQx6sDCMY-cMJV_iDiWwMIf495Y/pub?start=false&loop=false&delayms=3000" target="_blank">Chi-Square Test</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 03, &nbsp;&nbsp;RRR week
